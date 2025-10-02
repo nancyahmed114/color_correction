@@ -1,0 +1,7 @@
+torch==2.1.0       # Core PyTorch library for tensor ops and model
+torchvision==0.16.0 # For image transforms and pretrained models
+numpy==1.26.0      # Numerical operations
+Pillow==10.0.0     # Image loading and processing
+matplotlib==3.8.0  # Visualization
+tqdm==4.66.1       # Progress bars during training
+scipy==1.12.1      # Optional: used in some transforms/SSIM calculations
